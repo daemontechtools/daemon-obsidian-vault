@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart Estimate/Forms and Validation.md",
+                "file": "Smart Estimate/State Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
+                "file": "Smart Estimate/State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
+                "file": "Smart Estimate/State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-13.md"
+                "file": "Smart Estimate/State Management.md"
               }
             }
           }
@@ -183,11 +181,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "dee154003a035135",
+  "active": "10fff90cbab0dec7",
   "lastOpenFiles": [
+    "Smart Estimate/Quote UI.md",
+    "Smart Estimate/State Management.md",
     "Smart Estimate/Forms and Validation.md",
     "Daily Notes/2023-12-13.md",
-    "Smart Estimate/Quote UI.md",
     "Smart Estimate/Untitled",
     "Smart Estimate/Dealer Admin.md",
     "Smart Estimate/Authentication.md",
