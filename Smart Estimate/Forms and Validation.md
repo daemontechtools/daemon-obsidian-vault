@@ -2,5 +2,5 @@
 	- [ ] Create ShipLocation Form
 	- [ ] Add Address Form
 	- [ ] Add ComboBox Component
-	- [ ] Add View models for ShipLocation and Address
+	- [x] Add View models for ShipLocation and Address
 	
