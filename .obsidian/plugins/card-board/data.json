@@ -1,0 +1,60 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "backlog",
+              "displayTitle": "Backlog"
+            },
+            {
+              "tag": "planning",
+              "displayTitle": "In Planning"
+            },
+            {
+              "tag": "todo",
+              "displayTitle": "Todo"
+            },
+            {
+              "tag": "doing",
+              "displayTitle": "In Progress"
+            }
+          ],
+          "showColumnTags": false,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Smart Estimate"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "SmartEstimate",
+          "collapsedColumns": [
+            0
+          ]
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}
