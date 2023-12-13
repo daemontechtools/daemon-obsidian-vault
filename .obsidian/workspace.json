@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a37652faacbf8f6c",
@@ -182,7 +183,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "058dd3245a17a5dc",
+  "active": "10fff90cbab0dec7",
   "lastOpenFiles": [
     "Daily Notes/2023-12-13.md",
     "Smart Estimate/Quote UI.md",
