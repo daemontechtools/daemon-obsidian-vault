@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdb69c9dc3dd571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Smart Estimate/Forms and Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c29790e09ef1ed3",
             "type": "leaf",
             "state": {
@@ -28,7 +16,7 @@
             }
           },
           {
-            "id": "e4d94c2a0142bea3",
+            "id": "10fff90cbab0dec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +28,19 @@
             }
           },
           {
-            "id": "10fff90cbab0dec7",
+            "id": "44f6bfe78be649bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Smart Estimate/Quote UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dee154003a035135",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
+                "file": "Smart Estimate/Forms and Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
+                "file": "Smart Estimate/Forms and Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +159,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-13.md"
+                "file": "Smart Estimate/Forms and Validation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +185,15 @@
   },
   "active": "10fff90cbab0dec7",
   "lastOpenFiles": [
-    "Smart Estimate/Forms and Validation.md",
+    "Smart Estimate/Quote UI.md",
     "Daily Notes/2023-12-13.md",
+    "Smart Estimate/Forms and Validation.md",
+    "Smart Estimate/Untitled",
+    "Smart Estimate/Dealer Admin.md",
     "Smart Estimate/Authentication.md",
     "Daily Notes",
     "Smart Estimate/SMART API.md",
     "Smart Estimate/Hosting.md",
-    "Smart Estimate/Quote UI.md",
-    "Smart Estimate/Dealer Admin.md",
     "Smart Estimate/Issues/Add  Admin Views.md",
     "Daily Notes/2023-12-12.md",
     "Untitled.canvas",

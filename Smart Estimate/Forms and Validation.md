@@ -1,3 +1,3 @@
-- [ ] Create ShipLocation Form #todo
-- [ ] Finish New Quote View #todo
-- [ ] 
+- [ ] Finish New Quote View #doing
+	- [ ] Create ShipLocation Form
+	
