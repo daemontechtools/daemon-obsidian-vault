@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c29790e09ef1ed3",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
             "id": "10fff90cbab0dec7",
             "type": "leaf",
             "state": {
@@ -50,9 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58263f3e9b2a0f59",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
