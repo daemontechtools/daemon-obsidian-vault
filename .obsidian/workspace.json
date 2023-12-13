@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart Estimate/Authentication.md",
+                "file": "Daily Notes/2023-12-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Smart Estimate/Authentication.md",
+                "file": "Daily Notes/2023-12-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Smart Estimate/Authentication.md",
+                "file": "Daily Notes/2023-12-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Smart Estimate/Authentication.md"
+                "file": "Daily Notes/2023-12-13.md"
               }
             }
           }
@@ -176,19 +176,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
   "active": "10fff90cbab0dec7",
   "lastOpenFiles": [
     "Smart Estimate/Forms and Validation.md",
+    "Daily Notes/2023-12-13.md",
     "Smart Estimate/Authentication.md",
+    "Daily Notes",
     "Smart Estimate/SMART API.md",
     "Smart Estimate/Hosting.md",
     "Smart Estimate/Quote UI.md",
     "Smart Estimate/Dealer Admin.md",
     "Smart Estimate/Issues/Add  Admin Views.md",
-    "2023-12-12.md",
+    "Daily Notes/2023-12-12.md",
     "Untitled.canvas",
     "Testing Tasky Tasks.md",
     "Tasks Plugin - Review and check your Statuses 2023-12-12 15-15-30.md",
