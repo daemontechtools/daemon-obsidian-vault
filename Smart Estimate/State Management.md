@@ -1,3 +1,3 @@
 
-- [ ] Create ShopLocation Store #todo
+- [ ] Create ShopLocation Store #doing
 - [ ] Create LibraryProduct Store #todo
