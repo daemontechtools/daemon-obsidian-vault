@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d4e320d428ae939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Smart Estimate/User Stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +191,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "89a9f885752a791d",
+  "active": "cccf9c969de85d86",
   "lastOpenFiles": [
     "index.md",
     "Daily Notes/2023-12-14.md",
