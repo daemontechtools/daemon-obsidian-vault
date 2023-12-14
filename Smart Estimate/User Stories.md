@@ -12,9 +12,12 @@
 
 ##### As a User, I want to delete Quotes I've created when they are no longer useful
 
+##### As a User, I want to attach documents to my Quote
 ##### As a User, I want to add Rooms to my Quote to organise my Products
 
 ##### As a User, I want to add Products to my Room so I can get the cost of the Room
+
+##### As a User, I want to organize
 
 ##### As an Admin, I want to add new Dealers so that we can add Users
 - [ ] Create Entra ID B2C instance #todo #hosting #auth #admin
