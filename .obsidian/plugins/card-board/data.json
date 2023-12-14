@@ -32,8 +32,8 @@
             }
           ],
           "filterPolarity": "Allow",
-          "filterScope": "SubTasksOnly",
-          "showFilteredTags": true,
+          "filterScope": "Both",
+          "showFilteredTags": false,
           "includeOthers": false,
           "includeUntagged": false,
           "title": "SmartEstimate",
