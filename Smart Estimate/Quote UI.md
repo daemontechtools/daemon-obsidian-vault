@@ -1,1 +1,2 @@
+- [ ] Finish Add New Project View
 - [ ] Create ComboBox Component #todo
