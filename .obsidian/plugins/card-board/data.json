@@ -32,7 +32,7 @@
             }
           ],
           "filterPolarity": "Allow",
-          "filterScope": "Both",
+          "filterScope": "SubTasksOnly",
           "showFilteredTags": true,
           "includeOthers": false,
           "includeUntagged": false,
