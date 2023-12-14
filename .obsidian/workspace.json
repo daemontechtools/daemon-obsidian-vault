@@ -25,24 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart Estimate/Quote UI.md",
+                "file": "Daily Notes/2023-12-14.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dee154003a035135",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
               }
             }
           },
@@ -55,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,13 +86,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a37652faacbf8f6c",
@@ -123,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Daily Notes/2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Daily Notes/2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Daily Notes/2023-12-14.md"
               }
             }
           }
@@ -187,12 +170,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "dee154003a035135",
+  "active": "44f6bfe78be649bb",
   "lastOpenFiles": [
     "Daily Notes/2023-12-13.md",
+    "Daily Notes/2023-12-12.md",
+    "Daily Notes/2023-12-14.md",
+    "Smart Estimate/Quote UI.md",
     "Untitled.canvas",
     "Smart Estimate/State Management.md",
-    "Smart Estimate/Quote UI.md",
     "Smart Estimate/Forms and Validation.md",
     "Smart Estimate/Untitled",
     "Smart Estimate/Dealer Admin.md",
@@ -201,7 +186,6 @@
     "Smart Estimate/SMART API.md",
     "Smart Estimate/Hosting.md",
     "Smart Estimate/Issues/Add  Admin Views.md",
-    "Daily Notes/2023-12-12.md",
     "Testing Tasky Tasks.md",
     "Tasks Plugin - Review and check your Statuses 2023-12-12 15-15-30.md",
     "Smart Estimate/Kanban.md",
