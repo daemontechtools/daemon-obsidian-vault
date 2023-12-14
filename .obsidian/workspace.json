@@ -35,11 +35,14 @@
             "id": "dee154003a035135",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-13.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-13.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -186,8 +189,9 @@
   },
   "active": "dee154003a035135",
   "lastOpenFiles": [
-    "Smart Estimate/State Management.md",
     "Daily Notes/2023-12-13.md",
+    "Untitled.canvas",
+    "Smart Estimate/State Management.md",
     "Smart Estimate/Quote UI.md",
     "Smart Estimate/Forms and Validation.md",
     "Smart Estimate/Untitled",
@@ -198,7 +202,6 @@
     "Smart Estimate/Hosting.md",
     "Smart Estimate/Issues/Add  Admin Views.md",
     "Daily Notes/2023-12-12.md",
-    "Untitled.canvas",
     "Testing Tasky Tasks.md",
     "Tasks Plugin - Review and check your Statuses 2023-12-12 15-15-30.md",
     "Smart Estimate/Kanban.md",
