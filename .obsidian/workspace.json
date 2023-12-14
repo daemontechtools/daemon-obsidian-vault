@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart Estimate/User Stories.md",
+                "file": "Smart Estimate/Admin Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Smart Estimate/User Stories.md",
+                "file": "Smart Estimate/Admin Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Smart Estimate/User Stories.md",
+                "file": "Smart Estimate/Admin Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Smart Estimate/User Stories.md"
+                "file": "Smart Estimate/Admin Tasks.md"
               }
             }
           },
@@ -174,13 +174,15 @@
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "10fff90cbab0dec7",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-14.md",
     "Smart Estimate/User Stories.md",
+    "Smart Estimate/Admin Tasks.md",
+    "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-13.md",
     "Daily Notes/2023-12-12.md",
     "Smart Estimate/State Management.md",

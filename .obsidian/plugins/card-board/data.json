@@ -36,9 +36,50 @@
           "showFilteredTags": false,
           "includeOthers": false,
           "includeUntagged": false,
-          "title": "SmartEstimate",
+          "title": "SE User Stories",
           "collapsedColumns": [
             0
+          ]
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "backlog",
+              "displayTitle": "Backlog"
+            },
+            {
+              "tag": "planning",
+              "displayTitle": "In Planning"
+            },
+            {
+              "tag": "todo",
+              "displayTitle": "Todo"
+            },
+            {
+              "tag": "doing",
+              "displayTitle": "In Progress"
+            }
+          ],
+          "showColumnTags": false,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "fileFilter",
+              "data": "Smart Estimate/Admin Tasks.md"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": false,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "SE Admin Tasks",
+          "collapsedColumns": [
+            0,
+            1
           ]
         }
       }
