@@ -1,7 +1,7 @@
 {
-  "githubRepo": "",
-  "githubToken": "",
-  "githubUserName": "",
+  "githubRepo": "daemon-docs",
+  "githubToken": "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",
+  "githubUserName": "JoshElias",
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
