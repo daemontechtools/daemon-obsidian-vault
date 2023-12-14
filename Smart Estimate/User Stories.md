@@ -17,7 +17,7 @@
 
 ##### As a User, I want to add Products to my Room so I can get the cost of the Room
 
-##### As a User, I want to organize
+##### As a User, I want to calculate the total cost or my Quote
 
 ##### As an Admin, I want to add new Dealers so that we can add Users
 - [ ] Create Entra ID B2C instance #todo #hosting #auth #admin
