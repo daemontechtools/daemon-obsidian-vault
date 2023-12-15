@@ -3,14 +3,14 @@
 - [ ] Create ShipLocation Store #doing #state 
 	- [Git Branch](https://github.com/daemontechtools/SmartEstimate/tree/feature/add-shiplocation-store)
 	- Make sure our generic API and Store systems work with Projects and ShipLocations
-- [ ] Create ComboBox Component #todo #ui   
+- [ ] Create ComboBox Component  #todo #ui   
 	- Create a combo box for selecting an existing ShipLocation as well as selecting Products.
 
 ##### As a User, I want to add a new Quote so I can start estimating my project
 
-- [ ] Finish ShipLocationView component #todo #ui 
-- [ ] Finish ShipLocationForm component #todo #forms #ui
-- [ ] Finish ShippingInput component #todo #forms #ui
+- [ ] Finish ShipLocationView component  #todo #ui 
+- [ ] Finish ShipLocationForm component  #todo #forms #ui
+- [ ] Finish ShippingInput component  #todo #forms #ui
 
 ##### As a User, I want to delete Quotes I've created when they are no longer useful
 

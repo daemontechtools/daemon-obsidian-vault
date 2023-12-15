@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "89a9f885752a791d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97f2ca41ccaff14e",
             "type": "leaf",
             "state": {
@@ -51,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,19 +177,19 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "89a9f885752a791d",
+  "active": "8fb7e40d4690e5e7",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-12.md",
+    "Daily Notes/2023-12-13.md",
     "Daily Notes/2023-12-14.md",
-    "Projects/Smart Estimate/index.md",
     "Projects/Smart Estimate/User Stories.md",
+    "Projects/Smart Estimate/index.md",
     "index.md",
     "Projects",
     "Projects/Smart Estimate/Admin Tasks.md",
     "Projects/Smart Estimate/Authentication.md",
     "Projects/Smart Estimate/Dealer Admin.md",
     "Projects/Smart Estimate/State Management.md",
-    "Daily Notes/2023-12-13.md",
-    "Daily Notes/2023-12-12.md",
     "Projects/Smart Estimate/SMART API.md",
     "Untitled.canvas",
     "Projects/Smart Estimate/Quote UI.md",
