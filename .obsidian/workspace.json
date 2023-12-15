@@ -38,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "446882a4bd7b7f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-12-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,12 +190,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "8fb7e40d4690e5e7",
+  "active": "97f2ca41ccaff14e",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-12.md",
+    "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-13.md",
-    "Daily Notes/2023-12-14.md",
+    "Daily Notes/2023-12-12.md",
     "Projects/Smart Estimate/User Stories.md",
+    "Daily Notes/2023-12-14.md",
     "Projects/Smart Estimate/index.md",
     "index.md",
     "Projects",
