@@ -57,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-15.md",
+                "file": "Clients/Hoppin/Grace Support.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Clients/Hoppin/Grace Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Clients/Hoppin/Grace Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md"
+                "file": "Clients/Hoppin/Grace Support.md"
               }
             }
           },
@@ -203,9 +202,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4d4e320d428ae939",
+  "active": "446882a4bd7b7f33",
   "lastOpenFiles": [
     "Daily Notes/2023-12-15.md",
+    "Clients/Hoppin/Grace Support.md",
+    "Clients/Hoppin",
+    "Clients",
     "Projects/Smart Estimate/User Stories.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
