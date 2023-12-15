@@ -44,3 +44,8 @@
 - [ ] User Detail View #todo #admin #ui
 
 ##### As a User, I want to be able to login so I can manage my Quotes
+
+
+
+Future Ideas
+Add Shipping Notes to the Project
