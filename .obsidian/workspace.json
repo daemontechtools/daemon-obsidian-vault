@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clients/Hoppin/Grace Support.md",
+                "file": "Ideas/Products.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clients/Hoppin/Grace Support.md",
+                "file": "Ideas/Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clients/Hoppin/Grace Support.md",
+                "file": "Ideas/Products.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clients/Hoppin/Grace Support.md"
+                "file": "Ideas/Products.md"
               }
             }
           },
@@ -214,10 +214,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4dccbb142e9fa7fe",
+  "active": "cccf9c969de85d86",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-15.md",
+    "Clients/Muskoka",
+    "Daily Notes/2023-12-12.md",
+    "Ideas/Products.md",
+    "Ideas",
+    "Daily Notes/2023-12-14.md",
+    "Daily Notes/2023-12-13.md",
     "Clients/Hoppin/Grace Support.md",
+    "Daily Notes/2023-12-15.md",
     "Clients/Hoppin",
     "Clients",
     "Projects/Smart Estimate/User Stories.md",
@@ -228,9 +234,6 @@
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems",
     "Projects/Smart Estimate/Systems/State Management.md",
-    "Daily Notes/2023-12-12.md",
-    "Daily Notes/2023-12-13.md",
-    "Daily Notes/2023-12-14.md",
     "index.md",
     "Projects",
     "Projects/Smart Estimate/Systems/SMART API.md",
