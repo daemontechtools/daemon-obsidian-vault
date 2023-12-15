@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Products.md",
+                "file": "Daily Notes/2023-12-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Products.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Products.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Products.md"
+                "file": "Projects/Smart Estimate/User Stories.md"
               }
             }
           },
@@ -214,13 +214,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "cccf9c969de85d86",
+  "active": "4d4e320d428ae939",
   "lastOpenFiles": [
-    "Clients/Muskoka",
+    "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-12.md",
     "Ideas/Products.md",
+    "Projects/Smart Estimate/Systems/SMART API.md",
+    "Clients/Muskoka",
     "Ideas",
-    "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-13.md",
     "Clients/Hoppin/Grace Support.md",
     "Daily Notes/2023-12-15.md",
@@ -236,7 +237,6 @@
     "Projects/Smart Estimate/Systems/State Management.md",
     "index.md",
     "Projects",
-    "Projects/Smart Estimate/Systems/SMART API.md",
     "Untitled.canvas",
     "Projects/Smart Estimate/Systems/Quote UI.md",
     "Projects/Smart Estimate/Systems/Hosting.md",

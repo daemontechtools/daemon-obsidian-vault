@@ -1,0 +1,1 @@
+- Filter out ShipLocations who's DefaultAddress is null on the OrderAPI level
