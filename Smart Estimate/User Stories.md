@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 ##### As a User, I want to be add new Addresses to my Dealer to be used in my Quotes
 - [ ] Create ShipLocation Store #doing #state 
 	[Git Branch](https://github.com/daemontechtools/SmartEstimate/tree/feature/add-shiplocation-store)
