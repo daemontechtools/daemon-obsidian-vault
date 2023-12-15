@@ -2,6 +2,8 @@
 
 ### ShipLocationInput Component
 
+^054d83
+
 - Accept an initial value. Will commonly come from the parent Project object.
 - While the current ShipLocation is set, display it's Address as read-only
 - Provide a ComboBox for the user to select from existing ShipLocations. Upon selection, update the current Address. Emit the new value to the parent component so the parent Model can be updated as well.
