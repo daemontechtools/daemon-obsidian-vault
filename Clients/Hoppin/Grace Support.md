@@ -1,5 +1,6 @@
-Hours Remaining: 3
+Hours Remaining: 2
 
 ### Tasks
-- [ ] Debug adding Portal to Experience 
-- [ ] Create Invoice for JN
+- [x] Debug adding Portal to Experience 
+- [ ] Find where Experience.Scenes.Objects.linkedId is set
+- [x] Create Invoice for JN
