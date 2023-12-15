@@ -28,7 +28,7 @@
           "filters": [
             {
               "tag": "pathFilter",
-              "data": "Smart Estimate"
+              "data": "Projects/Smart Estimate"
             }
           ],
           "filterPolarity": "Allow",
@@ -68,7 +68,7 @@
           "filters": [
             {
               "tag": "fileFilter",
-              "data": "Smart Estimate/Admin Tasks.md"
+              "data": "Projects/Smart Estimate/Admin Tasks.md"
             }
           ],
           "filterPolarity": "Allow",

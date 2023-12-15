@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smart Estimate/User Stories.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-14.md",
+                "file": "Projects/Smart Estimate/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-14.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-14.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-14.md"
+                "file": "Projects/Smart Estimate/User Stories.md"
               }
             }
           },
@@ -190,22 +190,24 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4d4e320d428ae939",
+  "active": "89a9f885752a791d",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-14.md",
-    "Smart Estimate/User Stories.md",
+    "Projects/Smart Estimate/index.md",
+    "Projects/Smart Estimate/User Stories.md",
     "index.md",
-    "Smart Estimate/Admin Tasks.md",
-    "Smart Estimate/Authentication.md",
-    "Smart Estimate/Dealer Admin.md",
-    "Smart Estimate/State Management.md",
+    "Projects",
+    "Daily Notes/2023-12-14.md",
+    "Projects/Smart Estimate/Admin Tasks.md",
+    "Projects/Smart Estimate/Authentication.md",
+    "Projects/Smart Estimate/Dealer Admin.md",
+    "Projects/Smart Estimate/State Management.md",
     "Daily Notes/2023-12-13.md",
     "Daily Notes/2023-12-12.md",
-    "Smart Estimate/SMART API.md",
+    "Projects/Smart Estimate/SMART API.md",
     "Untitled.canvas",
-    "Smart Estimate/Quote UI.md",
-    "Smart Estimate/Hosting.md",
-    "Smart Estimate/Forms and Validation.md",
+    "Projects/Smart Estimate/Quote UI.md",
+    "Projects/Smart Estimate/Hosting.md",
+    "Projects/Smart Estimate/Forms and Validation.md",
     "Smart Estimate/Untitled",
     "Daily Notes",
     "Smart Estimate/Issues/Add  Admin Views.md",
@@ -213,7 +215,7 @@
     "Tasks Plugin - Review and check your Statuses 2023-12-12 15-15-30.md",
     "Smart Estimate/Kanban.md",
     "Smart Estimate/Issues",
-    "Smart Estimate",
+    "Projects/Smart Estimate",
     "Untitled 1.canvas"
   ]
 }
