@@ -4,7 +4,7 @@
 	- [Git Branch](https://github.com/daemontechtools/SmartEstimate/tree/feature/add-shiplocation-store)
 	- Make sure our generic API and Store systems work with Projects and ShipLocations
 - [ ] Create ComboBox Component #todo #ui   
-	Create a combo box for selecting an existing ShipLocation as well as selecting Products.
+	- Create a combo box for selecting an existing ShipLocation as well as selecting Products.
 
 ##### As a User, I want to add a new Quote so I can start estimating my project
 
