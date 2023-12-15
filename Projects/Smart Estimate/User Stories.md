@@ -15,10 +15,18 @@
 
 ##### As a User, I want to delete Quotes I've created when they are no longer useful
 
+##### As a User, I want to drag and drop documents to upload them to my Quote
 ##### As a User, I want to attach documents to my Quote
 ##### As a User, I want to add Rooms to my Quote to organise my Products
 
+##### As a User, I want to duplicate a Room on my current Quote
+
+##### As a User,  I want to view the images for my Room objects if they are available
+
+##### As a User, I want to view the Muskoka Asset Catalogue from the Main Side Panel
 ##### As a User, I want to add Products to my Room so I can get the cost of the Room
+
+##### As a User, I want to duplicate a Product on my current Room
 
 ##### As a User, I want to calculate the total cost or my Quote
 

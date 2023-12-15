@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/Forms and Validation.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/Forms and Validation.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/Forms and Validation.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/Forms and Validation.md"
+                "file": "Projects/Smart Estimate/User Stories.md"
               }
             }
           },
@@ -192,11 +192,11 @@
   },
   "active": "97f2ca41ccaff14e",
   "lastOpenFiles": [
+    "Projects/Smart Estimate/Forms and Validation.md",
+    "Projects/Smart Estimate/User Stories.md",
     "Projects/Smart Estimate/State Management.md",
     "Daily Notes/2023-12-12.md",
     "Daily Notes/2023-12-15.md",
-    "Projects/Smart Estimate/Forms and Validation.md",
-    "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-13.md",
     "Daily Notes/2023-12-14.md",
     "Projects/Smart Estimate/index.md",
