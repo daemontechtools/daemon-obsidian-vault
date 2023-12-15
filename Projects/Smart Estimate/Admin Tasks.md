@@ -1,1 +1,1 @@
-- [ ] Host Obsidian Docs Online #doing
+- [x] Host Obsidian Docs Online #done

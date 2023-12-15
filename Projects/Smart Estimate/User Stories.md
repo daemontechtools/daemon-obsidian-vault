@@ -26,6 +26,10 @@
 ##### As a User, I want to view the Muskoka Asset Catalogue from the Main Side Panel
 ##### As a User, I want to add Products to my Room so I can get the cost of the Room
 
+##### As a User, I want to select my Product by typing in it's Id
+
+##### As a User, I want to view the Product Selection Combo Box
+
 ##### As a User, I want to duplicate a Product on my current Room
 
 ##### As a User, I want to calculate the total cost or my Quote

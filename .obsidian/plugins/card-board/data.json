@@ -38,7 +38,8 @@
           "includeUntagged": false,
           "title": "SE User Stories",
           "collapsedColumns": [
-            0
+            0,
+            1
           ]
         }
       },

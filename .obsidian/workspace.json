@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Projects/Smart Estimate/Systems/Dealer Admin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "954c526f22006a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Smart Estimate/Systems/Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/index.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#story",
+                "query": "tag:#doing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,25 +203,26 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "97f2ca41ccaff14e",
+  "active": "4d4e320d428ae939",
   "lastOpenFiles": [
-    "Projects/Smart Estimate/Forms and Validation.md",
-    "Projects/Smart Estimate/User Stories.md",
-    "Projects/Smart Estimate/State Management.md",
-    "Daily Notes/2023-12-12.md",
     "Daily Notes/2023-12-15.md",
+    "Projects/Smart Estimate/User Stories.md",
+    "Projects/Smart Estimate/Systems/Authentication.md",
+    "Projects/Smart Estimate/Systems/Dealer Admin.md",
+    "Projects/Smart Estimate/index.md",
+    "Projects/Smart Estimate/Admin Tasks.md",
+    "Projects/Smart Estimate/Systems/Forms and Validation.md",
+    "Projects/Smart Estimate/Systems",
+    "Projects/Smart Estimate/Systems/State Management.md",
+    "Daily Notes/2023-12-12.md",
     "Daily Notes/2023-12-13.md",
     "Daily Notes/2023-12-14.md",
-    "Projects/Smart Estimate/index.md",
     "index.md",
     "Projects",
-    "Projects/Smart Estimate/Admin Tasks.md",
-    "Projects/Smart Estimate/Authentication.md",
-    "Projects/Smart Estimate/Dealer Admin.md",
-    "Projects/Smart Estimate/SMART API.md",
+    "Projects/Smart Estimate/Systems/SMART API.md",
     "Untitled.canvas",
-    "Projects/Smart Estimate/Quote UI.md",
-    "Projects/Smart Estimate/Hosting.md",
+    "Projects/Smart Estimate/Systems/Quote UI.md",
+    "Projects/Smart Estimate/Systems/Hosting.md",
     "Smart Estimate/Untitled",
     "Daily Notes",
     "Smart Estimate/Issues/Add  Admin Views.md",
