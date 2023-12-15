@@ -2,4 +2,3 @@
 
 ## Projects
 
-[[User Stories]]
