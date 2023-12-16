@@ -11,15 +11,15 @@
               "displayTitle": "Backlog"
             },
             {
-              "tag": "planning",
+              "tag": "📖",
               "displayTitle": "In Planning"
             },
             {
-              "tag": "todo",
-              "displayTitle": "Todo"
+              "tag": "🛠️",
+              "displayTitle": "To Do"
             },
             {
-              "tag": "doing",
+              "tag": "🚀",
               "displayTitle": "In Progress"
             }
           ],

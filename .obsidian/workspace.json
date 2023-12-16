@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#doing",
+                "query": "tag:#state",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,11 +227,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "058dd3245a17a5dc",
+  "active": "6cc17808bfe201b2",
   "lastOpenFiles": [
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-15.md",
+    "Projects/Smart Estimate/Systems/Authentication.md",
     "Daily Notes/2023-12-14.md",
     "Task Tests.md",
     "Projects/Smart Estimate/Admin Tasks.md",
@@ -245,7 +246,6 @@
     "Clients/Hoppin/Grace Support.md",
     "Clients/Hoppin",
     "Clients",
-    "Projects/Smart Estimate/Systems/Authentication.md",
     "Projects/Smart Estimate/index.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems",
