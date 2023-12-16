@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "6cc17808bfe201b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Smart Estimate/User Stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4dccbb142e9fa7fe",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,11 +227,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "446882a4bd7b7f33",
+  "active": "6cc17808bfe201b2",
   "lastOpenFiles": [
+    "Task Tests.md",
+    "Projects/Smart Estimate/User Stories.md",
+    "Projects/Smart Estimate/Admin Tasks.md",
     "Daily Notes/2023-12-15.md",
     "ShipLocationForm.md",
-    "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-12.md",
     "Ideas/Products.md",
@@ -232,7 +247,6 @@
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/index.md",
-    "Projects/Smart Estimate/Admin Tasks.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems",
     "Projects/Smart Estimate/Systems/State Management.md",
