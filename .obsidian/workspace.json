@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md"
+                "file": "Daily Notes/2023-12-15.md"
               }
             }
           },
@@ -227,14 +227,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6cc17808bfe201b2",
+  "active": "4d4e320d428ae939",
   "lastOpenFiles": [
-    "Task Tests.md",
+    "Daily Notes/2023-12-14.md",
     "Projects/Smart Estimate/User Stories.md",
+    "Task Tests.md",
     "Projects/Smart Estimate/Admin Tasks.md",
     "Daily Notes/2023-12-15.md",
     "ShipLocationForm.md",
-    "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-12.md",
     "Ideas/Products.md",
     "Projects/Smart Estimate/Systems/SMART API.md",
