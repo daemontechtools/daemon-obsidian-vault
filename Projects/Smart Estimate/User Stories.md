@@ -1,4 +1,4 @@
-#### As a User, I want to be add new Addresses to my Dealer to be used in my Quotes
+##### As a User, I want to be add new Addresses to my Dealer to be used in my Quotes
 - [x] Create ShipLocation Store     #doing #state- 
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/2)
 	- Make sure our generic API and Store systems work with Projects
