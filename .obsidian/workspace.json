@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projects/Smart Estimate/User Stories.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -227,11 +227,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "446882a4bd7b7f33",
+  "active": "058dd3245a17a5dc",
   "lastOpenFiles": [
+    "Projects/Smart Estimate/Systems/Dealer Admin.md",
+    "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-14.md",
-    "Projects/Smart Estimate/User Stories.md",
     "Task Tests.md",
     "Projects/Smart Estimate/Admin Tasks.md",
     "ShipLocationForm.md",
@@ -245,7 +246,6 @@
     "Clients/Hoppin",
     "Clients",
     "Projects/Smart Estimate/Systems/Authentication.md",
-    "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/index.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems",
