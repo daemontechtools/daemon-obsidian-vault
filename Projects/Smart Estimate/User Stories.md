@@ -1,8 +1,8 @@
 ##### As a User, I want to be add new Addresses to my Dealer to be used in my Quotes
 
 - [x] Create ShipLocation Store #🚀 #state  
-	- [PR](https://github.com/daemontechtools/SmartEstimate/pull/2) 
-	- Make sure our generic API and Store systems work with Projects and 
+    [PR](https://github.com/daemontechtools/SmartEstimate/pull/2)     
+    Make sure our generic API and Store systems work with Projects and 
 	- Needed to install System.Drawing Common for SMART's Address collection
 - [ ] Create [[Forms and Validation#^054d83|SEShippingInput]] component  #🚀 #forms
 - [ ] Create ComboBox Component  #🛠️ #ui   
