@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#state",
+                "query": "tag:#🚀",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,7 +227,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6cc17808bfe201b2",
+  "active": "058dd3245a17a5dc",
   "lastOpenFiles": [
     "Daily Notes/2023-12-16.md",
     "Projects/Smart Estimate/User Stories.md",
