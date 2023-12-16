@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "task"
+  ]
 }
