@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md"
+                "file": "Daily Notes/2023-12-17.md"
               }
             }
           },
@@ -229,9 +229,10 @@
   },
   "active": "446882a4bd7b7f33",
   "lastOpenFiles": [
+    "Projects/Smart Estimate/User Stories.md",
+    "Daily Notes/2023-12-17.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
-    "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-16.md",
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-14.md",
