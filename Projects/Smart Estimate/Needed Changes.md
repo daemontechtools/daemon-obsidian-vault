@@ -1,3 +1,10 @@
 - Need to include `AddressNotes` in Add ShipLocation.
-- Going to need `ShipLocation.DefaultContact.DisplayName` and `ShipLocation.DefaultContact.DefaultEmail`
+- Going to need
+	- `ShipLocation.DefaultContact.DisplayName`
+	- `ShipLocation.DefaultContact.DefaultEmail`
+	- `ShipLocation.DefaultContact.DefaultPhone
+- Both `DefaultPhone` and `DefaultEmail` are `CommunicationLink`s
+	- What is a `CommunicationLink`?
+	- How can I create and read them as strings?
+- I need the ability mutate a `ShipLocation` if someone needs to make a change or fix a mistake
 - 
