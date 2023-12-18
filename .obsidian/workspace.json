@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-17.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-17.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-17.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-17.md"
+                "file": "Projects/Smart Estimate/User Stories.md"
               }
             }
           },
@@ -229,12 +228,13 @@
   },
   "active": "446882a4bd7b7f33",
   "lastOpenFiles": [
-    "Projects/Smart Estimate/User Stories.md",
-    "Daily Notes/2023-12-17.md",
-    "Projects/Smart Estimate/Systems/Authentication.md",
-    "Projects/Smart Estimate/Systems/Dealer Admin.md",
-    "Daily Notes/2023-12-16.md",
     "Daily Notes/2023-12-15.md",
+    "Projects/Smart Estimate/Systems/Dealer Admin.md",
+    "Projects/Smart Estimate/Systems/Authentication.md",
+    "Daily Notes/2023-12-16.md",
+    "Daily Notes/2023-12-17.md",
+    "Daily Notes/2023-12-18.md",
+    "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-14.md",
     "Task Tests.md",
     "Projects/Smart Estimate/Admin Tasks.md",
