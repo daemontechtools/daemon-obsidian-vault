@@ -1,1 +1,3 @@
-Need to include AddressNotes in Add ShipLocation.
+- Need to include `AddressNotes` in Add ShipLocation.
+- Going to need `ShipLocation.DefaultContact.DisplayName` and `ShipLocation.DefaultContact.DefaultEmail`
+- 
