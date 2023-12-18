@@ -15,7 +15,7 @@
 #### ShipLocation Form
 
 - Require fields for Location Name as well as the required field for Address
-- On clear, set the underlying ShipLocation Model to new(""), setting all it's properties to their default.
+- [x] On clear, set the underlying ShipLocation Model to new(""), setting all it's properties to their default.
 - On Save, validate the ShipLocation Model.
 - On validation failure, update the view state to display validation errors to the user.
 - On validation success, emit the created ShipLocation object to the parent.
