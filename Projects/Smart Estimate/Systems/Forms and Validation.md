@@ -4,8 +4,8 @@
 
 ^054d83
 
-- Accept an initial value. Will commonly come from the parent Project object.
-- While the current ShipLocation is set, display it's Address as read-only
+- [x] Accept an initial value. Will commonly come from the parent Project object.
+- [x] While the current ShipLocation is set and we're not adding a new ship location, display it's Address as read-only
 - Provide a ComboBox for the user to select from existing ShipLocations. Upon selection, update the current Address. Emit the new value to the parent component so the parent Model can be updated as well.
 - Provide an button that will expose a ShipLocation form component. When that component emits a new ShipLocation: 
 	- Set the current ShipLocation to it

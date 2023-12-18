@@ -16,79 +16,19 @@
             }
           },
           {
-            "id": "97f2ca41ccaff14e",
+            "id": "886ae586fddf9a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Dealer Admin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "954c526f22006a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Smart Estimate/Systems/Authentication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d4e320d428ae939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-12-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "446882a4bd7b7f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-12-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc17808bfe201b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-12-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dccbb142e9fa7fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-12-14.md",
+                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-18.md",
+                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-18.md",
+                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-18.md"
+                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md"
               }
             }
           },
@@ -226,15 +166,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "446882a4bd7b7f33",
+  "active": "886ae586fddf9a79",
   "lastOpenFiles": [
     "Projects/Smart Estimate/User Stories.md",
-    "Daily Notes/2023-12-15.md",
+    "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Daily Notes/2023-12-16.md",
-    "Daily Notes/2023-12-17.md",
+    "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-18.md",
+    "Daily Notes/2023-12-17.md",
     "Daily Notes/2023-12-14.md",
     "Task Tests.md",
     "Projects/Smart Estimate/Admin Tasks.md",
@@ -249,7 +190,6 @@
     "Clients/Hoppin",
     "Clients",
     "Projects/Smart Estimate/index.md",
-    "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems",
     "Projects/Smart Estimate/Systems/State Management.md",
     "index.md",
