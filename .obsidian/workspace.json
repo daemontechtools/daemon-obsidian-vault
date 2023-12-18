@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/Needed Changes.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/Needed Changes.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/Needed Changes.md",
+                "file": "Projects/Smart Estimate/User Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/Needed Changes.md"
+                "file": "Projects/Smart Estimate/User Stories.md"
               }
             }
           },
@@ -180,13 +180,13 @@
   },
   "active": "d46f83a157578b6e",
   "lastOpenFiles": [
+    "Projects/Smart Estimate/Needed Changes.md",
     "Clients/Hoppin/Grace Support.md",
     "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-16.md",
     "Daily Notes/2023-12-17.md",
     "Daily Notes/2023-12-18.md",
-    "Projects/Smart Estimate/Needed Changes.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/User Stories.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
