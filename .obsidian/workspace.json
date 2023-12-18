@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md",
+                "file": "Daily Notes/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md",
+                "file": "Daily Notes/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md",
+                "file": "Daily Notes/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Forms and Validation.md"
+                "file": "Daily Notes/2023-12-18.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "886ae586fddf9a79",
   "lastOpenFiles": [
-    "Projects/Smart Estimate/User Stories.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
+    "Projects/Smart Estimate/User Stories.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Daily Notes/2023-12-16.md",
