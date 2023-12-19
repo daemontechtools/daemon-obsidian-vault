@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodingWisdom/Web Browser/Gotchas.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodingWisdom/Web Browser/Gotchas.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodingWisdom/Web Browser/Gotchas.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodingWisdom/Web Browser/Gotchas.md"
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md"
               }
             }
           },
@@ -240,9 +240,9 @@
   },
   "active": "d8059e531a8f184b",
   "lastOpenFiles": [
-    "Projects/Smart Estimate/Systems/Quote UI.md",
     "Projects/Smart Estimate/User Stories.md",
     "CodingWisdom/Web Browser/Gotchas.md",
+    "Projects/Smart Estimate/Systems/Quote UI.md",
     "CodingWisdom/Coding Wisdom.md",
     "CodingWisdom/Web Browser",
     "CodingWisdom",
