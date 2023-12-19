@@ -1,4 +1,5 @@
-- Need to include `AddressNotes` in Add ShipLocation.
+- It appears like the new `ShipLocation` is not available on `SmartOrderEntryClient.ActiveDealer.ShipLocations` immediately after calling `SmartOrderEntryClient.AddShipLocation`.
+- We need to include `AddressNotes` in `SmartOrderEntryClient.AddShipLocation`.
 - Going to need
 	- `ShipLocation.DefaultContact.DisplayName`
 	- `ShipLocation.DefaultContact.DefaultEmail`
@@ -7,4 +8,3 @@
 	- What is a `CommunicationLink`?
 	- How can I create and read them as strings?
 - I need the ability mutate a `ShipLocation` if someone needs to make a change or fix a mistake
-- 
