@@ -3,7 +3,7 @@
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/2)
 	- Make sure our generic API and Store systems work with Projects
 	- Needed to install System.Drawing Common for SMART's Address collection
-- [ ] Create [[Forms and Validation#^054d83|SEShippingInput]] component    #doing #forms
+- [x] Create [[Forms and Validation#^054d83|SEShippingInput]] component    #doing #forms
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/3)
 - [ ] Create ComboBox Component    #todo #ui 
 	- Create a combo box for selecting an existing ShipLocation as well as selecting Products.
