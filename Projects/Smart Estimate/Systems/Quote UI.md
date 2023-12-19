@@ -7,6 +7,7 @@
 - [x] Provide a Class Property for overriding top level styles
 - [x] Hide/Show options on `input` element `focus`/`blur`
 - [ ] On option click, set the input's current value
+	- z fighting never gets old. I think label elements hijack an associated input's `click` and `focus` events. I need to stop using the label as the parent element for the ComboBox.
 - [x] Render the option list
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
 - [ ] Figure out how many options can currently be displayed depending on the height of the current viewport.
