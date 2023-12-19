@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Daily Notes/2023-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md"
+                "file": "Daily Notes/2023-12-18.md"
               }
             }
           },
@@ -179,11 +179,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "058dd3245a17a5dc",
+  "active": "886ae586fddf9a79",
   "lastOpenFiles": [
+    "Projects/Smart Estimate/User Stories.md",
     "Clients/Hoppin/Grace Support.md",
     "Projects/Smart Estimate/Needed Changes.md",
-    "Projects/Smart Estimate/User Stories.md",
     "Daily Notes/2023-12-14.md",
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-16.md",

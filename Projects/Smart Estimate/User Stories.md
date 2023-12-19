@@ -6,6 +6,7 @@
 - [x] Create [[Forms and Validation#^054d83|SEShippingInput]] component    #doing #forms
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/3)
 - [ ] Create ComboBox Component    #doing #ui 
+	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/4)
 	- Create a combo box for selecting an existing ShipLocation as well as selecting Products.
 ##### As a User, I want to add Shipping Notes to my Shipping Information
 
