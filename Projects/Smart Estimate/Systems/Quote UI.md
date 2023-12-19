@@ -11,7 +11,9 @@
 	- Still can't figure it out. spent almost all morning on this...I think what might be happening is that the `ul` element might be removed from the ui from the `onblur` event **before** the `onclick` has had a chance to fire? **Yes that was it**. Recorded in [[Gotchas#^f668cd| Web Browser Gotchas]].
 - [x] Render the option list
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
-- [ ] Filter the options based on the value of the input
+- [x] Filter the options based on the value of the input
+
+**Let's try NOT doing this for now...**
 - [ ] Figure out how many options can currently be displayed depending on the height of the current viewport.
 	- [ ] Figure out how to get browser resizing events in Blazor Server.
 - [ ] Load/Unload options from a virtual list of all options depending on the current location of the selection list.
