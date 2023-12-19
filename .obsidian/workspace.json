@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "d8059e531a8f184b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingWisdom/Web Browser/Gotchas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e676a24b89102003",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
+                "file": "CodingWisdom/Web Browser/Gotchas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
+                "file": "CodingWisdom/Web Browser/Gotchas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Quote UI.md"
+                "file": "CodingWisdom/Web Browser/Gotchas.md"
               }
             }
           },
@@ -226,15 +238,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "1501ea7a932f21e1",
+  "active": "d8059e531a8f184b",
   "lastOpenFiles": [
+    "Projects/Smart Estimate/Systems/Quote UI.md",
     "Projects/Smart Estimate/User Stories.md",
     "CodingWisdom/Web Browser/Gotchas.md",
     "CodingWisdom/Coding Wisdom.md",
     "CodingWisdom/Web Browser",
     "CodingWisdom",
     "CodingWisdom/CSharp + .Net",
-    "Projects/Smart Estimate/Systems/Quote UI.md",
     "().md",
     "Daily Notes/2023-12-19.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
