@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-18.md",
+                "file": "Daily Notes/2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-18.md",
+                "file": "Daily Notes/2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-18.md",
+                "file": "Daily Notes/2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-18.md"
+                "file": "Daily Notes/2023-12-19.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "886ae586fddf9a79",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-18.md",
+    "Daily Notes/2023-12-19.md",
     "Projects/Smart Estimate/User Stories.md",
     "Clients/Hoppin/Grace Support.md",
     "Projects/Smart Estimate/Needed Changes.md",
@@ -188,7 +190,6 @@
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-16.md",
     "Daily Notes/2023-12-17.md",
-    "Daily Notes/2023-12-18.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
@@ -215,7 +216,6 @@
     "Daily Notes",
     "Smart Estimate/Issues/Add  Admin Views.md",
     "Testing Tasky Tasks.md",
-    "Tasks Plugin - Review and check your Statuses 2023-12-12 15-15-30.md",
     "Smart Estimate/Issues",
     "Projects/Smart Estimate",
     "Untitled 1.canvas"
