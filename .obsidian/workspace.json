@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa273b11cd789218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingWisdom/Coding Wisdom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af158613b0a08db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingWisdom/Web Browser/Gotchas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,14 +226,19 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e676a24b89102003",
+  "active": "1501ea7a932f21e1",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-19.md",
-    "Projects/Smart Estimate/Systems/Quote UI.md",
-    "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/User Stories.md",
-    "Projects/Smart Estimate/Needed Changes.md",
+    "CodingWisdom/Web Browser/Gotchas.md",
+    "CodingWisdom/Coding Wisdom.md",
+    "CodingWisdom/Web Browser",
+    "CodingWisdom",
+    "CodingWisdom/CSharp + .Net",
+    "Projects/Smart Estimate/Systems/Quote UI.md",
     "().md",
+    "Daily Notes/2023-12-19.md",
+    "Projects/Smart Estimate/Systems/Forms and Validation.md",
+    "Projects/Smart Estimate/Needed Changes.md",
     "Daily Notes/2023-12-18.md",
     "Clients/Hoppin/Grace Support.md",
     "Daily Notes/2023-12-14.md",
@@ -235,12 +264,7 @@
     "index.md",
     "Projects",
     "Untitled.canvas",
-    "Projects/Smart Estimate/Systems/Hosting.md",
     "Smart Estimate/Untitled",
-    "Daily Notes",
-    "Smart Estimate/Issues/Add  Admin Views.md",
-    "Smart Estimate/Issues",
-    "Projects/Smart Estimate",
     "Untitled 1.canvas"
   ]
 }
