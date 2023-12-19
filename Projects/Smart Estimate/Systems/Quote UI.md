@@ -12,6 +12,7 @@
 - [x] Render the option list
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
 - [x] Filter the options based on the value of the input
+- [ ] Create a state for no results
 
 **Let's try NOT doing this for now...**
 - [ ] Figure out how many options can currently be displayed depending on the height of the current viewport.
