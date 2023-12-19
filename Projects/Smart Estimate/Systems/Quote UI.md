@@ -8,6 +8,7 @@
 - [x] Hide/Show options on `input` element `focus`/`blur`
 - [ ] On option click, set the input's current value
 	- z fighting never gets old. I think label elements hijack an associated input's `click` and `focus` events. I need to stop using the label as the parent element for the ComboBox.
+	- Still can't figure it out. spent almost all morning on this...I think what might be happening is that the `ul` element might be removed from the ui from the `onblur` event **before** the `onclick` has had a chance to fire? **Yes that was it**.
 - [x] Render the option list
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
 - [ ] Figure out how many options can currently be displayed depending on the height of the current viewport.
