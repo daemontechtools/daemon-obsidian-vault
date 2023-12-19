@@ -5,7 +5,7 @@
 	- Needed to install System.Drawing Common for SMART's Address collection
 - [x] Create [[Forms and Validation#^054d83|SEShippingInput]] component    #doing #forms
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/3)
-- [ ] Create ComboBox Component    #todo #ui 
+- [ ] Create ComboBox Component    #doing #ui 
 	- Create a combo box for selecting an existing ShipLocation as well as selecting Products.
 ##### As a User, I want to add Shipping Notes to my Shipping Information
 

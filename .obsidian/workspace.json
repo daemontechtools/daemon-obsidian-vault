@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#🛠️",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "886ae586fddf9a79",
+  "active": "058dd3245a17a5dc",
   "lastOpenFiles": [
     "Clients/Hoppin/Grace Support.md",
     "Projects/Smart Estimate/Needed Changes.md",
