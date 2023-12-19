@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-19.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-19.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-19.md",
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-19.md"
+                "file": "Projects/Smart Estimate/Systems/Quote UI.md"
               }
             }
           },
@@ -204,11 +204,11 @@
   },
   "active": "e676a24b89102003",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-19.md",
     "Projects/Smart Estimate/Systems/Quote UI.md",
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/User Stories.md",
     "Projects/Smart Estimate/Needed Changes.md",
-    "Daily Notes/2023-12-19.md",
     "().md",
     "Daily Notes/2023-12-18.md",
     "Clients/Hoppin/Grace Support.md",
