@@ -10,6 +10,7 @@
 - [x] Render the option list
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
 - [ ] Figure out how many options can currently be displayed depending on the height of the current viewport.
+	- [ ] Figure out how to get browser resizing events in Blazor Server.
 - [ ] Load/Unload options from a virtual list of all options depending on the current location of the selection list.
 
 
