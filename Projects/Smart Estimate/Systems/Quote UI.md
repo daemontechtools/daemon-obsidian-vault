@@ -13,6 +13,14 @@
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
 - [x] Filter the options based on the value of the input
 - [ ] Create a state for no results
+- [ ] Allow ComboBox to show errors for any field on a model with a ValueExpression
+
+##### Overriding Input Text Behaviour
+
+- The value of our underlying InputText is not the value the Consumer cares about. It represents the query that we're using find a Value, it's that Value that is bound to by the Consumer
+
+##### Should have based inherited from InputSelect instead of TextInput
+
 
 **Let's try NOT doing this for now...**
 - [ ] Figure out how many options can currently be displayed depending on the height of the current viewport.

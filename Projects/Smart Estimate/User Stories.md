@@ -7,6 +7,11 @@
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/3)
 - [ ] Create [[Quote UI#^b49151|ComboBox]] Component    #doing #ui 
 	- [Pull Request](https://github.com/daemontechtools/SmartEstimate/pull/4)
+	-  Show generic validation messages with given `ValueExpression` from Form Model
+	- How can I manually set the value of an `InputText` and trigger it's `@onchange`
+- [ ] Allow complex Form Validation
+- [x] Create `RequiredIf` Attribute #doing #forms
+	- This is required for situations where you want one property to be `Required` based on the value of another Property
 ##### As a User, I want to add Shipping Notes to my Shipping Information
 
 ##### As a User, I want to add a new Quote so I can start estimating my project
