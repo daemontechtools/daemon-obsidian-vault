@@ -1,4 +1,4 @@
-#### ComboBox
+## ComboBox
 
 ^b731ba
 ^b49151
@@ -12,14 +12,22 @@
 - [x] Render the option list
 - [ ] Support 2 levels of grouping. Display options in relation to their groups.
 - [x] Filter the options based on the value of the input
-- [ ] Create a state for no results
-- [ ] Allow ComboBox to show errors for any field on a model with a ValueExpression
+- [x] Create a state for no results
+- [ ] Allow ComboBox to show errors for any field on a model with a `ValueExpression`
 
-##### Overriding Input Text Behaviour
+#### Overriding Input Text Behaviour
 
-- The value of our underlying InputText is not the value the Consumer cares about. It represents the query that we're using find a Value, it's that Value that is bound to by the Consumer
+- The value of our underlying `InputText` is not the value the Consumer cares about. It represents the query that we're using find a Value, it's that Value that is bound to by the Consumer
 
-##### Should have based inherited from InputSelect instead of TextInput
+#### Should have based inherited from `InputSelect` instead of TextInput
+
+Nope. Needed to go lower. `InputBase<T>`
+
+#### The final solution
+
+- Create a custom Input component with `InputBase<T>`. This allows the `Value` to be generic but requires far more setup which includes a Razor component [code behind](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-8.0#partial-class-support)
+- Data doesn't need to be marshalled into a custom object with `Label` and `Value` before it can be used in the ComboBox
+- You can provide a custom list of objects, and on select you will get the instance of the selected custom object back.
 
 
 **Let's try NOT doing this for now...**
@@ -38,3 +46,5 @@
 	- Optional tag for sorting options into groups
 - Group2: string?
 	- Another tag for one more level of group
+- ![[Pasted image 20231221091411.png]]
+- 
