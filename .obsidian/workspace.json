@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-21.md",
+                "file": "Daily Notes/2023-12-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-21.md",
+                "file": "Daily Notes/2023-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-21.md",
+                "file": "Daily Notes/2023-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-21.md"
+                "file": "Daily Notes/2023-12-23.md"
               }
             }
           },
@@ -172,10 +172,12 @@
   },
   "active": "7f7937acf6603036",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-22.md",
+    "Daily Notes/2023-12-23.md",
+    "Daily Notes/2023-12-21.md",
     "Projects/Smart Estimate/Systems/Quote UI.md",
     "Pasted image 20231221091411.png",
     "Projects/Smart Estimate/User Stories.md",
-    "Daily Notes/2023-12-21.md",
     "index.md",
     "Daily Notes/2023-12-20.md",
     "Projects/Smart Estimate/Smart Estimate.md",
@@ -200,7 +202,6 @@
     "Projects/Smart Estimate/Admin Tasks.md",
     "ShipLocationForm.md",
     "Daily Notes/2023-12-12.md",
-    "Ideas/Products.md",
     "Clients/Muskoka",
     "Ideas",
     "Clients/Hoppin",
