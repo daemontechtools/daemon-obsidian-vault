@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/User Stories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f7937acf6603036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Daily Notes/2023-12-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,14 +157,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "7f7937acf6603036",
+  "active": "d8059e531a8f184b",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-22.md",
+    "Projects/Smart Estimate/User Stories.md",
+    "Untitled.canvas",
+    "Ideas/Living Room Shelves.md",
     "Daily Notes/2023-12-23.md",
+    "Ideas/Untitled",
+    "Daily Notes/2023-12-22.md",
     "Daily Notes/2023-12-21.md",
     "Projects/Smart Estimate/Systems/Quote UI.md",
     "Pasted image 20231221091411.png",
-    "Projects/Smart Estimate/User Stories.md",
     "index.md",
     "Daily Notes/2023-12-20.md",
     "Projects/Smart Estimate/Smart Estimate.md",
@@ -200,16 +190,12 @@
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Task Tests.md",
     "Projects/Smart Estimate/Admin Tasks.md",
-    "ShipLocationForm.md",
-    "Daily Notes/2023-12-12.md",
     "Clients/Muskoka",
     "Ideas",
     "Clients/Hoppin",
     "Clients",
     "Projects/Smart Estimate/Systems",
     "Projects",
-    "Untitled.canvas",
-    "Smart Estimate/Untitled",
     "Untitled 1.canvas"
   ]
 }
