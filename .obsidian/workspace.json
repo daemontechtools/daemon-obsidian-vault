@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-01.md",
+                "file": "Daily Notes/2024-01-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-01.md",
+                "file": "Daily Notes/2024-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-01.md",
+                "file": "Daily Notes/2024-01-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-01.md"
+                "file": "Daily Notes/2024-01-02.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "d8059e531a8f184b",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-23.md",
     "Daily Notes/2024-01-01.md",
+    "Daily Notes/2024-01-02.md",
+    "Daily Notes/2023-12-23.md",
     "Projects/Smart Estimate/User Stories.md",
     "Untitled.canvas",
     "Ideas/Living Room Shelves.md",
@@ -190,7 +191,6 @@
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
     "Task Tests.md",
-    "Projects/Smart Estimate/Admin Tasks.md",
     "Clients/Muskoka",
     "Ideas",
     "Clients/Hoppin",
