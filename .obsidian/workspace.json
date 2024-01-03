@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-02.md",
+                "file": "Daily Notes/2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-02.md",
+                "file": "Daily Notes/2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-02.md",
+                "file": "Daily Notes/2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-02.md"
+                "file": "Daily Notes/2024-01-03.md"
               }
             }
           },
@@ -159,17 +159,18 @@
   },
   "active": "d8059e531a8f184b",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-01.md",
     "Daily Notes/2024-01-02.md",
-    "Daily Notes/2023-12-23.md",
+    "Daily Notes/2024-01-03.md",
     "Projects/Smart Estimate/User Stories.md",
+    "Pasted image 20231221091411.png",
+    "Daily Notes/2024-01-01.md",
+    "Daily Notes/2023-12-23.md",
     "Untitled.canvas",
     "Ideas/Living Room Shelves.md",
     "Ideas/Untitled",
     "Daily Notes/2023-12-22.md",
     "Daily Notes/2023-12-21.md",
     "Projects/Smart Estimate/Systems/Quote UI.md",
-    "Pasted image 20231221091411.png",
     "index.md",
     "Daily Notes/2023-12-20.md",
     "Projects/Smart Estimate/Smart Estimate.md",
@@ -190,7 +191,6 @@
     "Daily Notes/2023-12-17.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Projects/Smart Estimate/Systems/Authentication.md",
-    "Task Tests.md",
     "Clients/Muskoka",
     "Ideas",
     "Clients/Hoppin",
