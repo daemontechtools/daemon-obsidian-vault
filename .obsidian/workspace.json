@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-04.md",
+                "file": "Daily Notes/2024-01-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-04.md",
+                "file": "Daily Notes/2024-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-04.md",
+                "file": "Daily Notes/2024-01-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-04.md"
+                "file": "Daily Notes/2024-01-05.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "d8059e531a8f184b",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-03.md",
     "Daily Notes/2024-01-04.md",
+    "Daily Notes/2024-01-05.md",
+    "Daily Notes/2024-01-03.md",
     "Daily Notes/2024-01-02.md",
     "Projects/Smart Estimate/User Stories.md",
     "Pasted image 20231221091411.png",
@@ -190,7 +191,6 @@
     "Daily Notes/2023-12-15.md",
     "Daily Notes/2023-12-16.md",
     "Daily Notes/2023-12-17.md",
-    "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Clients/Muskoka",
     "Ideas",
     "Clients/Hoppin",
