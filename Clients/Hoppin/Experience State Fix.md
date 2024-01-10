@@ -5,4 +5,13 @@
 	- [x] Fix createLocalizedSchema
 	- [ ] Fix Model.countDocuments
 	- [ ] Fix res.acknowledged and res.modifiedCount
-	- [ ] 
+	- [ ] Fix Model.exists
+		- had to use ts-ignore
+	- [ ] Update Nx Version
+	- [ ] Add`omitUndefined`
+
+update count to count documents
+
+
+Document NX build, serve and deploy
+Dotenv vault
