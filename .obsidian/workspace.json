@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-01-15.md",
+                "file": "Daily Notes/2024-01-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-01-15.md",
+                "file": "Daily Notes/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-01-15.md",
+                "file": "Daily Notes/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-01-15.md"
+                "file": "Daily Notes/2024-01-16.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "d8059e531a8f184b",
   "lastOpenFiles": [
-    "Daily Notes/2024-01-12.md",
     "Daily Notes/2024-01-15.md",
+    "Daily Notes/2024-01-16.md",
+    "Daily Notes/2024-01-12.md",
     "Daily Notes/2024-01-11.md",
     "Daily Notes/2024-01-10.md",
     "Daily Notes/2024-01-09.md",
@@ -190,7 +191,6 @@
     "CodingWisdom/Web Browser",
     "CodingWisdom",
     "CodingWisdom/CSharp + .Net",
-    "().md",
     "Clients/Muskoka",
     "Ideas",
     "Clients/Hoppin",
