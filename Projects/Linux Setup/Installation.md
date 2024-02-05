@@ -36,6 +36,8 @@ Glove80 MAC address C8:59:D4:D8:34:40
 	- rust
 	- git
 	- ttf-jetbrains-mono-nerd
+	- noto-fonts
+	- noto-fonts-emoji
 	- signal-desktop
 	- fish?
 	- obisidian
