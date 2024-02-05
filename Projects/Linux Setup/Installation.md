@@ -20,7 +20,7 @@ Setup Nvim and clone astronvim repo
 - [x] Get my bluetooth working
 - [ ] Update Home git
 - [x] Setup nvim
-- [ ] Install Ewww bar
+- [x] Install  waybar
 - [x] Install hyprpaper with old wallpaper
 - [ ] Use Qt 6? POG
 
@@ -48,3 +48,11 @@ Glove80 MAC address C8:59:D4:D8:34:40
 	- Actually so fucking easy
 	- Create generic script that takes MAC address as input
 - 
+
+## Macros
+
+Keys for following groups
+- Game vs Work
+- Bluetooth Headset
+	- Pair, Forget,  Connect, Disconnect
+- Audio Device
