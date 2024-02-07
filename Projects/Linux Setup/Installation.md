@@ -12,8 +12,7 @@ Installed with Arch Install
 Download Home directory from Git
 Download Obsidian Vault from Git
 Setup Nvim and clone astronvim repo
-
-
+Setup KDE Wallet
 
 ## Todos
 
