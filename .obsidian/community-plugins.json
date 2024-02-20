@@ -2,7 +2,7 @@
   "github-embeds",
   "card-board",
   "obsidian-git",
-  "obsidian-statusbar-pomo",
   "calendar",
-  "dataview"
+  "dataview",
+  "obsidian-statusbar-pomo"
 ]
