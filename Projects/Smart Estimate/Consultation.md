@@ -54,8 +54,12 @@ I know there's a mechanism for storing secrets in locally with `.NET` but I have
 
 ### Tailwind
 
-- Review my current setup for handling scoped CSS in Razor components. See `daem`
+- Run `tailwind --watch` with `dotnet watch`
+- Review my current setup for handling scoped CSS in Razor components.
 - Why are some breakpoints ignored?
 - Create CSS Bundle
 	- App Css
 	- RCL Css
+
+## General Questions
+
