@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-02-29.md",
+                "file": "Projects/Smart Estimate/Pages/Test Product Pricing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-02-29.md",
+                "file": "Projects/Smart Estimate/Pages/Test Product Pricing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-02-29.md",
+                "file": "Projects/Smart Estimate/Pages/Test Product Pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-02-29.md"
+                "file": "Projects/Smart Estimate/Pages/Test Product Pricing.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "8a380267b8ee9ff4",
   "lastOpenFiles": [
-    "Daily Notes/2024-02-28.md",
+    "Pasted image 20240229093958.png",
     "Daily Notes/2024-02-29.md",
+    "Projects/Smart Estimate/Pages/Test Product Pricing.md",
+    "Projects/Smart Estimate/Pages",
+    "Daily Notes/2024-02-28.md",
     "Projects/Smart Estimate/Consultation.md",
     "Daily Notes/2024-02-27.md",
     "Daily Notes/2024-02-26.md",
@@ -184,8 +187,6 @@
     "Daily Notes/2024-01-28.md",
     "Daily Notes/2024-01-27.md",
     "Daily Notes/2024-01-26.md",
-    "Daily Notes/2024-01-25.md",
-    "Daily Notes/2024-01-23.md",
     "Pasted image 20231221091411.png",
     "Untitled.canvas",
     "Ideas/Untitled",
@@ -196,7 +197,6 @@
     "Ideas",
     "Clients/Hoppin",
     "Clients",
-    "Projects/Smart Estimate/Systems",
     "Untitled 1.canvas"
   ]
 }
