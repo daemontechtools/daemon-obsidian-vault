@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-05.md",
+                "file": "Daily Notes/2024-03-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e6ddde1bc57a58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-03-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-05.md",
+                "file": "Daily Notes/2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-05.md",
+                "file": "Daily Notes/2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-03-05.md"
+                "file": "Daily Notes/2024-03-07.md"
               }
             }
           },
@@ -157,10 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a380267b8ee9ff4",
+  "active": "0e6ddde1bc57a58a",
   "lastOpenFiles": [
-    "Projects/Smart Estimate/Pages/Test Product Pricing.md",
     "Daily Notes/2024-03-05.md",
+    "Daily Notes/2024-03-06.md",
+    "Projects/Smart Estimate/Pages/Test Product Pricing.md",
     "Daily Notes/2024-03-02.md",
     "Pasted image 20240301111627.png",
     "Daily Notes/2024-03-01.md",
@@ -188,7 +202,6 @@
     "Daily Notes/2024-02-01.md",
     "Daily Notes/2024-01-31.md",
     "Daily Notes/2024-01-29.md",
-    "Daily Notes/2024-01-28.md",
     "Pasted image 20231221091411.png",
     "Untitled.canvas",
     "Ideas/Untitled",
