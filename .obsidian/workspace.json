@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-09.md",
+                "file": "Daily Notes/2024-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-09.md",
+                "file": "Daily Notes/2024-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-09.md",
+                "file": "Daily Notes/2024-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-03-09.md"
+                "file": "Daily Notes/2024-03-10.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "0e6ddde1bc57a58a",
   "lastOpenFiles": [
-    "Daily Notes/2024-03-08.md",
     "Daily Notes/2024-03-09.md",
+    "Daily Notes/2024-03-10.md",
+    "Daily Notes/2024-03-08.md",
     "Daily Notes/2024-03-07.md",
     "Daily Notes/2024-03-05.md",
     "Daily Notes/2024-03-06.md",
@@ -200,7 +201,6 @@
     "Daily Notes/2024-02-04.md",
     "Daily Notes/2024-02-05.md",
     "Daily Notes/2024-02-07.md",
-    "Daily Notes/2024-02-06.md",
     "Projects/Linux Setup",
     "Pasted image 20231221091411.png",
     "Untitled.canvas",
