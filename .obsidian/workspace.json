@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-12.md",
+                "file": "Daily Notes/2024-03-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-12.md",
+                "file": "Daily Notes/2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-12.md",
+                "file": "Daily Notes/2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-03-12.md"
+                "file": "Daily Notes/2024-03-13.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   },
   "active": "0e6ddde1bc57a58a",
   "lastOpenFiles": [
+    "Daily Notes/2024-03-12.md",
+    "Daily Notes/2024-03-13.md",
     "CodingWisdom/Git.md",
     "CodingWisdom/Coding Wisdom.md",
-    "Daily Notes/2024-03-12.md",
     "CodingWisdom/Untitled",
     "Daily Notes/2024-03-10.md",
     "Daily Notes/2024-03-09.md",
@@ -201,7 +202,6 @@
     "Daily Notes/2024-02-20.md",
     "Daily Notes/2024-02-18.md",
     "Daily Notes/2024-02-16.md",
-    "Projects/Linux Setup/Installation.md",
     "Projects/Linux Setup",
     "Pasted image 20231221091411.png",
     "Untitled.canvas",
