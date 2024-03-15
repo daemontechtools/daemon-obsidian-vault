@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-14.md",
+                "file": "Daily Notes/2024-03-15.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "526c568a8350b6dd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-14.md",
+                "file": "Daily Notes/2024-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-14.md",
+                "file": "Daily Notes/2024-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-03-14.md"
+                "file": "Daily Notes/2024-03-15.md"
               }
             }
           },
@@ -170,18 +160,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "card-board:CardBoard": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "526c568a8350b6dd",
+  "active": "0e6ddde1bc57a58a",
   "lastOpenFiles": [
-    "Projects/Smart Estimate/Consultation.md",
     "Daily Notes/2024-03-14.md",
+    "Daily Notes/2024-03-15.md",
+    "Projects/Smart Estimate/Consultation.md",
     "Task Tests.md",
     "Untitled.canvas",
     "Pasted image 20240229093958.png",
@@ -211,7 +204,6 @@
     "Daily Notes/2024-02-22.md",
     "Daily Notes/2024-02-25.md",
     "Daily Notes/2024-02-21.md",
-    "Daily Notes/2024-02-20.md",
     "Projects/Linux Setup",
     "Ideas/Untitled",
     "CodingWisdom/Web Browser",
