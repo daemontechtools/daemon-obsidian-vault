@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-13.md",
+                "file": "Daily Notes/2024-03-14.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "526c568a8350b6dd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-13.md",
+                "file": "Daily Notes/2024-03-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-13.md",
+                "file": "Daily Notes/2024-03-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-03-13.md"
+                "file": "Daily Notes/2024-03-14.md"
               }
             }
           },
@@ -160,20 +170,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "card-board:CardBoard": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0e6ddde1bc57a58a",
+  "active": "526c568a8350b6dd",
   "lastOpenFiles": [
-    "Daily Notes/2024-03-12.md",
+    "Projects/Smart Estimate/Consultation.md",
+    "Daily Notes/2024-03-14.md",
+    "Task Tests.md",
+    "Untitled.canvas",
+    "Pasted image 20240229093958.png",
+    "Pasted image 20231221091411.png",
     "Daily Notes/2024-03-13.md",
+    "Daily Notes/2024-03-12.md",
     "CodingWisdom/Git.md",
     "CodingWisdom/Coding Wisdom.md",
     "CodingWisdom/Untitled",
@@ -187,11 +201,9 @@
     "Daily Notes/2024-03-02.md",
     "Pasted image 20240301111627.png",
     "Daily Notes/2024-03-01.md",
-    "Pasted image 20240229093958.png",
     "Daily Notes/2024-02-29.md",
     "Projects/Smart Estimate/Pages",
     "Daily Notes/2024-02-28.md",
-    "Projects/Smart Estimate/Consultation.md",
     "Daily Notes/2024-02-27.md",
     "Daily Notes/2024-02-26.md",
     "Daily Notes/2024-02-08.md",
@@ -200,11 +212,7 @@
     "Daily Notes/2024-02-25.md",
     "Daily Notes/2024-02-21.md",
     "Daily Notes/2024-02-20.md",
-    "Daily Notes/2024-02-18.md",
-    "Daily Notes/2024-02-16.md",
     "Projects/Linux Setup",
-    "Pasted image 20231221091411.png",
-    "Untitled.canvas",
     "Ideas/Untitled",
     "CodingWisdom/Web Browser",
     "CodingWisdom",
