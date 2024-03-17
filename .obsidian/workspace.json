@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Auth.md",
+                "file": "Daily Notes/2024-03-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Auth.md",
+                "file": "Daily Notes/2024-03-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Auth.md",
+                "file": "Daily Notes/2024-03-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/Auth.md"
+                "file": "Daily Notes/2024-03-17.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "8a380267b8ee9ff4",
   "lastOpenFiles": [
-    "Daily Notes/2024-03-15.md",
     "Projects/Smart Estimate/Systems/Auth.md",
+    "Daily Notes/2024-03-17.md",
+    "Daily Notes/2024-03-15.md",
     "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Daily Notes/2024-03-06.md",
     "Daily Notes/2024-03-14.md",
@@ -190,7 +191,6 @@
     "Daily Notes/2024-02-26.md",
     "Daily Notes/2024-02-08.md",
     "Daily Notes/2024-02-15.md",
-    "Daily Notes/2024-02-22.md",
     "Projects/Linux Setup",
     "Ideas/Untitled",
     "CodingWisdom/Web Browser",
