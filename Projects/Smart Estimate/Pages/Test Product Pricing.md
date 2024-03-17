@@ -2,12 +2,12 @@
 - [ ] Filter By Category
 - [x] Select Finish
 - [x] Select Door Hardware
-- [ ] Specify Dimensions
-	- [ ] Width
-	- [ ] Height
-	- [ ] Depth
+- [x] Specify Dimensions
+	- [x] Width
+	- [x] Height
+	- [x] Depth
 - [ ] Add Quantity
-- [ ] Right/Left Finish
+- [x] Right/Left Finish
 
 ## Price Function Arguments
 
