@@ -11,14 +11,11 @@
             "id": "8a380267b8ee9ff4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "acnjjkUntitled.canvas",
-                "viewState": {
-                  "x": 75,
-                  "y": 9,
-                  "zoom": 0
-                }
+                "file": "Daily Notes/2024-03-17.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acnjjkUntitled.canvas",
+                "file": "Daily Notes/2024-03-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "acnjjkUntitled.canvas",
+                "file": "Daily Notes/2024-03-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "acnjjkUntitled.canvas"
+                "file": "Daily Notes/2024-03-17.md"
               }
             }
           },
