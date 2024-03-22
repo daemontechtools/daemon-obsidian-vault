@@ -14,3 +14,7 @@ https://jeffkreeftmeijer.com/git-flow/
 ### Git Extensions
 
 https://github.com/githubFeature/gitflow-avh/tree/develop
+
+## ZSH Completions
+
+https://github.com/petervanderdoes/git-flow-completion
