@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-03-20.md",
+                "file": "Daily Notes/2024-03-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodingWisdom/Git.md",
+                "file": "Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodingWisdom/Git.md",
+                "file": "Daily Notes/2024-03-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodingWisdom/Git.md",
+                "file": "Daily Notes/2024-03-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodingWisdom/Git.md"
+                "file": "Daily Notes/2024-03-25.md"
               }
             }
           },
@@ -170,15 +169,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "b15178d21385a5e2",
+  "active": "02f9a7be26ae267f",
   "lastOpenFiles": [
+    "CodingWisdom/Git.md",
+    "Daily Notes/2024-03-25.md",
+    "Daily Notes/2024-03-20.md",
+    "Templates/Daily Note Template.md",
     "Daily Notes/2024-03-22.md",
     "Daily Notes/2024-03-21.md",
     "Daily Notes/2024-03-19.md",
-    "Daily Notes/2024-03-20.md",
-    "CodingWisdom/Git.md",
     "Daily Notes/2024-03-18.md",
-    "Templates/Daily Note Template.md",
     "Templates",
     "Daily Notes/2024-03-17.md",
     "acnjjkUntitled.canvas",
@@ -202,7 +202,6 @@
     "CodingWisdom/Coding Wisdom.md",
     "CodingWisdom/Untitled",
     "Daily Notes/2024-03-10.md",
-    "Daily Notes/2024-03-09.md",
     "Pasted image 20240301111627.png",
     "Projects/Smart Estimate/Pages",
     "Projects/Linux Setup",
