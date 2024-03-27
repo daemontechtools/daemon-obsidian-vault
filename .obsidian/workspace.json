@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Daily Notes/2024-03-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-03-26.md",
+                "file": "Daily Notes/2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-03-26.md",
+                "file": "Daily Notes/2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-03-26.md"
+                "file": "Daily Notes/2024-03-27.md"
               }
             }
           },
@@ -169,13 +170,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "02f9a7be26ae267f",
+  "active": "b15178d21385a5e2",
   "lastOpenFiles": [
-    "Daily Notes/2024-03-25.md",
     "Daily Notes/2024-03-26.md",
+    "Daily Notes/2024-03-27.md",
+    "Templates/Daily Note Template.md",
+    "Projects/Smart Estimate/Systems/Testing.md",
+    "Daily Notes/2024-03-25.md",
     "CodingWisdom/Git.md",
     "Daily Notes/2024-03-20.md",
-    "Templates/Daily Note Template.md",
     "Daily Notes/2024-03-22.md",
     "Daily Notes/2024-03-21.md",
     "Daily Notes/2024-03-19.md",
@@ -199,8 +202,6 @@
     "Pasted image 20240229093958.png",
     "Pasted image 20231221091411.png",
     "Daily Notes/2024-03-13.md",
-    "Daily Notes/2024-03-12.md",
-    "CodingWisdom/Coding Wisdom.md",
     "CodingWisdom/Untitled",
     "Pasted image 20240301111627.png",
     "Projects/Smart Estimate/Pages",
