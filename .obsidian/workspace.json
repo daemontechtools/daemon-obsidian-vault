@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "a6335adf4b0c0030",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "02d8f5ae9acdb6eb",
             "type": "leaf",
             "state": {
@@ -40,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +173,8 @@
   "active": "02d8f5ae9acdb6eb",
   "lastOpenFiles": [
     "Daily Notes/2024-03-28.md",
-    "Daily Notes/2024-03-29.md",
     "Daily Notes/2024-03-27.md",
+    "Daily Notes/2024-03-29.md",
     "Daily Notes/2024-03-26.md",
     "Templates/Daily Note Template.md",
     "Projects/Smart Estimate/Systems/Testing.md",
