@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/SMART Products.md",
+                "file": "Daily Notes/2024-04-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 457.5
   },
   "right": {
     "id": "a37652faacbf8f6c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/SMART Products.md",
+                "file": "Daily Notes/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/SMART Products.md",
+                "file": "Daily Notes/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Smart Estimate/Systems/SMART Products.md"
+                "file": "Daily Notes/2024-04-03.md"
               }
             }
           },
@@ -147,19 +147,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "card-board:CardBoard": false,
       "daily-notes:Open today's daily note": false,
-      "canvas:Create new canvas": false,
       "templates:Insert template": false,
+      "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "b15178d21385a5e2",
   "lastOpenFiles": [
     "Daily Notes/2024-04-02.md",
+    "Daily Notes/2024-04-03.md",
     "Projects/Smart Estimate/Systems/SMART Products.md",
     "Daily Notes/2024-03-27.md",
     "Daily Notes/2024-04-01.md",
@@ -186,7 +187,6 @@
     "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Projects/Smart Estimate/Systems/Auth.md",
     "Daily Notes/2024-03-15.md",
-    "Projects/Smart Estimate/Systems/Dealer Admin.md",
     "Pasted image 20240229093958.png",
     "Pasted image 20231221091411.png",
     "CodingWisdom/Untitled",
