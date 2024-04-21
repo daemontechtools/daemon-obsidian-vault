@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-21.md",
+                "file": "CodingWisdom/Boot.Dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-21.md",
+                "file": "CodingWisdom/Boot.Dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-21.md",
+                "file": "CodingWisdom/Boot.Dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-21.md"
+                "file": "CodingWisdom/Boot.Dev.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "b15178d21385a5e2",
   "lastOpenFiles": [
-    "Daily Notes/2024-04-04.md",
     "Daily Notes/2024-04-21.md",
+    "CodingWisdom/Boot.Dev.md",
+    "Daily Notes/2024-04-04.md",
     "Daily Notes/2024-04-03.md",
     "Daily Notes/2024-04-02.md",
     "Projects/Smart Estimate/Systems/SMART Products.md",
@@ -186,7 +187,6 @@
     "Projects/Smart Estimate/Systems/State Management.md",
     "Projects/Linux Setup/Installation.md",
     "Projects/Smart Estimate/Pages/Test Product Pricing.md",
-    "Projects/Smart Estimate/Systems/Forms and Validation.md",
     "Pasted image 20240229093958.png",
     "Pasted image 20231221091411.png",
     "CodingWisdom/Untitled",
