@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-24.md",
+                "file": "Daily Notes/2024-04-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-24.md",
+                "file": "Daily Notes/2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-24.md",
+                "file": "Daily Notes/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-24.md"
+                "file": "Daily Notes/2024-04-25.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   "active": "b15178d21385a5e2",
   "lastOpenFiles": [
     "CodingWisdom/Boot.Dev.md",
+    "CodingWisdom/Coding Wisdom.md",
+    "Daily Notes/2024-04-25.md",
     "Daily Notes/2024-04-24.md",
     "Daily Notes/2024-04-23.md",
     "Daily Notes/2024-04-22.md",
@@ -185,8 +187,6 @@
     "Templates",
     "Daily Notes/2024-03-17.md",
     "acnjjkUntitled.canvas",
-    "Projects/Smart Estimate/Systems/QuoteForm UI.md",
-    "Projects/Smart Estimate/Systems/Quote UI.md",
     "Pasted image 20240229093958.png",
     "Pasted image 20231221091411.png",
     "CodingWisdom/Untitled",
