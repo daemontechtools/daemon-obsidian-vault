@@ -8,13 +8,13 @@
   "ribbonIcon": true,
   "emoji": true,
   "notificationSound": true,
-  "useSystemNotification": true,
+  "useSystemNotification": false,
   "backgroundNoiseFile": "",
   "logging": true,
   "logFile": "Pomodoro Log.md",
   "logToDaily": true,
   "logText": "[🍅] dddd, MMMM DD YYYY, h:mm A",
-  "logActiveNote": true,
+  "logActiveNote": false,
   "fancyStatusBar": false,
   "whiteNoise": false
 }
