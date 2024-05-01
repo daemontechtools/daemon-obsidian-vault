@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-04-30.md",
+                "file": "Daily Notes/2024-05-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-04-30.md",
+                "file": "Daily Notes/2024-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-04-30.md",
+                "file": "Daily Notes/2024-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-04-30.md"
+                "file": "Daily Notes/2024-05-01.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "b15178d21385a5e2",
   "lastOpenFiles": [
-    "Daily Notes/2024-04-29.md",
     "Daily Notes/2024-04-30.md",
+    "Daily Notes/2024-05-01.md",
+    "Daily Notes/2024-04-29.md",
     "CodingWisdom/Coding Wisdom.md",
     "Daily Notes/2024-04-27.md",
     "Daily Notes/2024-04-26.md",
@@ -186,7 +187,6 @@
     "Daily Notes/2024-03-26.md",
     "Templates/Daily Note Template.md",
     "Projects/Smart Estimate/Systems/Testing.md",
-    "Daily Notes/2024-03-25.md",
     "Templates",
     "Pasted image 20240229093958.png",
     "CodingWisdom/Untitled",
