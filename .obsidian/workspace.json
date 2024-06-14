@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-06-14.md",
+                "file": "CodingWisdom/Home Linux Utilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-06-14.md",
+                "file": "CodingWisdom/Home Linux Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-06-14.md",
+                "file": "CodingWisdom/Home Linux Utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-06-14.md"
+                "file": "CodingWisdom/Home Linux Utilities.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "f6cb3d62edf8b74c",
   "lastOpenFiles": [
-    "CodingWisdom/Home Linux Utilities.md",
     "Daily Notes/2024-06-14.md",
+    "CodingWisdom/Home Linux Utilities.md",
     "Daily Notes/2024-06-12.md",
     "Daily Notes/2024-06-11.md",
     "Daily Notes/2024-06-10.md",

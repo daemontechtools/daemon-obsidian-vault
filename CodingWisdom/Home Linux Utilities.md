@@ -1,3 +1,9 @@
+# Prebuild Binaries
+
+- Create small always running server to listen
+- ACTUALLY create a github action that builds the packages for void and hosts them in the repo. Then we can tell XBPS to look at that repo using `etc/xbps.d`
+- 
+
 Daemon Package Manager
 
 - Bootstrap
