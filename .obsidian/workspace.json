@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2024-07-19.md",
+                "file": "CodingWisdom/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024-07-19.md",
+                "file": "CodingWisdom/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024-07-19.md",
+                "file": "CodingWisdom/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2024-07-19.md"
+                "file": "CodingWisdom/Git.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "f4d04830f6cfc88f",
   "lastOpenFiles": [
-    "Daily Notes/2024-07-17.md",
+    "CodingWisdom/Coding Wisdom.md",
     "Daily Notes/2024-07-19.md",
+    "Daily Notes/2024-07-17.md",
     "Daily Notes/2024-07-08.md",
     "Ideas/Geocaching App.md",
     "Daily Notes/2024-06-26.md",
@@ -218,7 +219,6 @@
     "Job Search/Snippets.md",
     "index.md",
     "acnjjkUntitled.canvas",
-    "Task Tests.md",
     "Job Search",
     "Templates",
     "CodingWisdom/Untitled",
