@@ -30,3 +30,11 @@ I'm in the job market for software engineering role and am particularly interest
 Would you be willing to briefly speak to me about your experience working there?  
   
 I have a bit of a non traditional background and I'm trying to figure out if Canonical would be a good fit and if so, which positions should I target.
+
+
+
+## Additional Information
+
+I absolutely love your tech stack and it's very close to an infrastructure that I would use in my own personal projects. I've been in Web Development for 15 years as a Fullstack developer but in the past 2 years I've transitioned to Backend specialization. I love programming in Go and designing system infrastructure. I have over decade of hands on experience with AWS, have worked with relational and non-relational databases. I also strong grasp of the cloud computing ecosystem.
+
+I really like that you start employees off with more than the mininum 2 week vacation and support remote work culture. I get so much more done than I used to at the office and also have more time to enjoy life!
