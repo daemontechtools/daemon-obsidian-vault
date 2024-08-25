@@ -1,3 +1,10 @@
+# How do I add value to Ground News
+
+- I have experience growing a team and a product
+- I have good mindset for problem solving and a real passion for computer science and software
+- I have a growth mindset and am constantly looking for ways to improve
+- I enjoy working with a team on a common set of goals and have demonstrated strong leadership in the past
+
 Converting DynamoDB to PostgreSQL
 
 Row-level/Row-based security
@@ -28,3 +35,4 @@ Autocorp stuff
 	- Tooling to create new Lambda layers
 - Cloudflare Edge Computing
 - Postgraphile
+
