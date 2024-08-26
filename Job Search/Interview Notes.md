@@ -59,6 +59,11 @@
 	- Much better developer experience
 - Monitoring business metrics in Grafana
 - Getting real value and productivity with Test Driven development
+
+## Autocorp Tech Challenges
+
+- Needing to coordinate website changes when making updates
+- Transition from and embedded user key in the frontend widget to identifying the client based on their host url
 ## Questions
 
 - What are some of Ada's biggest challenges in the AI Chatbot space?
